@@ -205,7 +205,7 @@
 						<li><a href="index.php"><b>Trang chủ</b></a></li>
 						<li><a href="products.php" action="products.php"><b>Cửa hàng</b></a></li>
 						<li><a href="#"><b>Khuyến mãi</b></a></li>
-						<li><a href="#"><b>Giới thiệu</b></a></li>
+						<li><a href="about.php" action="about.php"><b>Giới thiệu</b></a></li>
 						<li><a href="#"><b>liên hệ</b></a></li>
 					</ul>
 				</div>
