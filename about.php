@@ -64,9 +64,9 @@
 			<div class="container">
 				<ul class="breadcrumb">
 					<li>
-						<a href="#">Home</a>
+						<a href="#">Trang Chủ</a>
 					</li>
-					<li class="active">Products</li>
+					<li class="active">Giới Thiệu</li>
 				</ul>
 			</div>
 		</div>
@@ -117,7 +117,7 @@
 							<div class="agileits_social_button">
 								<ul>
 									<li>
-										<a href="#" class="facebook"> </a>
+										<a href="https://www.facebook.com/knightgarian" target="_blank" class="facebook"> </a>
 									</li>
 									<li>
 										<a href="#" class="gmail"> </a>
@@ -135,10 +135,10 @@
 							<div class="agileits_social_button">
 								<ul>
 									<li>
-										<a href="#" class="facebook"> </a>
+										<a href="https://www.facebook.com/tung.vu.17061997" target="_blank" class="facebook"> </a>
 									</li>
 									<li>
-										<a href="#" class="gmail"> </a>
+										<a href="https://mail.google.com/mail/u/0/#inbox" target="_blank" class="gmail"> </a>
 									</li>
 								</ul>
 							</div>
@@ -153,7 +153,7 @@
 							<div class="agileits_social_button">
 								<ul>
 									<li>
-										<a href="#" class="facebook"> </a>
+										<a href="https://www.facebook.com/huypm97" target="_blank" class="facebook"> </a>
 									</li>
 									<li>
 										<a href="#" class="gmail"> </a>
