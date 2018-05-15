@@ -64,6 +64,7 @@ body {
   font-family: 'Hind', sans-serif;
   color: #4A4E5A;
   overflow-x: hidden;
+
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -828,9 +829,7 @@ textarea.input {
 	05 -> HOME SLIDER
 ===========================================================*/
 
-#home .home-wrap {
-  /* margin-left: 270px; */
-}
+
 
 #home-slick .banner {
   margin: 0px;
@@ -1744,3 +1743,8 @@ textarea.input {
     width: 100%;
   }
 }
+
+/*=========================================================
+	13 -> Giỏ Hàng
+===========================================================*/
+/* chưa làm */
