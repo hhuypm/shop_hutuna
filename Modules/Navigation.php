@@ -225,7 +225,7 @@ function scrollFunction() {
 		document.getElementById("navigation").style.position = "fixed";
 		document.getElementById("navigation").style.width = "100%";
 		document.getElementById("home").style.margin = "50px 0 0 0";
-		document.getElementById("navigation").style.z-index = 1000;
+		// document.getElementById("navigation").style.z-index = 1000;
 	}
 	else {
 		document.getElementById("navigation").style.top = "0";
