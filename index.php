@@ -915,7 +915,9 @@
 	<!-- /section -->
 
 	<!-- FOOTER -->
-	
+	<?php
+		include "Modules/footer.php";
+	?>
 	<!-- /FOOTER -->
 
 	<!-- jQuery Plugins -->
